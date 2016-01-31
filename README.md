@@ -1,3 +1,3 @@
 # djangogirlstrips
 
-This is the source code for the http://arcane-hollows-3074.herokuapp.com/ website.
+This is the source code for the https://workshop3-test1.herokuapp.com/ website.
